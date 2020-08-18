@@ -1,0 +1,131 @@
+@import "main";
+@import "index";
+
+#brand{
+    padding-top: 40px;
+    h1{
+        color: #F9C784;
+        font-size: 1.6rem;
+    }
+}
+
+#brand-one{
+    h5{
+        color: #F9C784;
+        font-size: 1.6rem;
+        line-height: 1.8em;
+    }
+}
+
+
+#brand-two{
+    h2{
+    color: #F9C784;
+    font-size: 1.6rem;
+}
+.brand-two-small{
+       font-size: 1em !important;
+       color: #F9C784 !important;    
+}
+}
+
+
+
+
+
+// top 10 IT jobs every company will be hiring for in 2020
+
+#data{
+    .data-content{
+        h5{
+            color: #F9C784 !important;
+            font-size: 1.2rem;
+            line-height: 1.8em;
+            text-transform: uppercase;
+        }
+    }
+}
+
+
+#data-one{
+    .data-one-content{
+       h2{
+        color: #F9C784;
+        font-size: 1.6rem;
+        margin-top: 10px;
+        text-transform: uppercase;
+       }
+    }
+}
+
+
+
+
+
+
+// Top 15 Highest Paying Jobs
+
+
+#doctors{
+    .doctors-content{
+        h5{
+            color: #F9C784 !important;
+            font-size: 1.2rem;
+            line-height: 1.8em;
+            text-transform: uppercase;
+        }
+    }
+}
+
+
+
+#doctors-one{
+    .doctors-one-content{
+        .color{
+            color: #F9C784 !important;
+        }
+       h2{
+        color: #F9C784 !important;
+        font-size: 1.6rem;
+        margin-top: 10px;
+        text-transform: uppercase;
+       }
+           li{
+               color: #fff;
+           }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.earn-money-tips{
+    h1{
+        font-weight: 700 !important;
+        font-size: 1.8em !important;
+    }
+}
+
+
+
+
+
+.earnmoneytips-blog{
+    
+    a{
+        text-decoration: none;
+        list-style-type: none;
+    }
+    .card-img-top{
+        width: 100%;
+        height: 250px;
+    }
+}

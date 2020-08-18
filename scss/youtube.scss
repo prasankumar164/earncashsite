@@ -1,0 +1,89 @@
+@import "main";
+@import "index";
+
+
+
+body{
+    background-image: url('../images/index-bg.png');
+    background-attachment: fixed;  
+    background-repeat: repeat;
+    background-position: center;
+}
+
+
+
+
+.brand-one{
+    padding-top: 50px;
+    h1{
+        color: #F9C784;
+        text-transform: uppercase;
+        font-size: 1.4em !important;
+        text-decoration: underline;    }
+    h2{
+        color: #F9C784;
+        text-transform: uppercase;
+        font-size: 1.4em !important;
+        line-height: 2;
+    }
+}
+
+.brand-two{
+    h2{
+        color: #F9C784;
+        padding: 0;
+    }
+}
+
+.brand-three{
+    h2{
+        color: #F9C784;
+        padding-top: 30px;
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        font-size: 1.6rem;
+    }
+    p{
+        color: #fff;
+    }
+    img{
+        padding-top: 25px;
+    }
+}
+
+
+
+
+
+
+// HOW TO EARN MONEY ON YOUTUBE 6 EASY TIPS
+
+.tip{
+    padding-top: 40px;
+    h1{
+        color: #F9C784;
+        font-size: 1.6rem;
+    }
+}
+
+.evel{
+    padding: 30px 0px;
+    h2{
+        color: #F9C784;
+        font-size: 1.6rem;
+    }
+}
+
+.tip-one{
+    margin: 30px 0px 20px 0px;
+    h2{
+        color: #F9C784;
+        text-transform: uppercase;
+        padding: 20px 0px 0px 0px;
+        font-size: 1.6rem;
+    }
+}
+
+
+
+

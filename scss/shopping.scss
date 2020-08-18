@@ -1,0 +1,272 @@
+@import "main";
+
+body{
+   background: #fff !important;
+}
+
+#mobiles{
+    padding-top: 40px;
+    h1{
+        color: #000;
+        text-align: center;
+        font-size: 1.6rem;
+        font-weight: 800;
+    }
+}
+
+
+
+#mobile-one{
+    .mobile-oneimg{
+       position: relative;
+       margin: 10px 0px 10px 0px;
+    //    .mobile-one-img-content{
+    //        position: absolute;
+    //        text-align: center;
+    //        background: rgba(24, 23, 23, 0.836);
+    //        top: 50%;
+    //        left: 34%;
+    //        padding: 10px;
+    //        .display{
+    //            color: #fff !important;
+    //        }
+    //        span{
+    //            color: #FF8C42;
+    //            font-weight: 800;
+    //        }
+    //    }
+    }
+}
+
+// @media only screen and (max-width: 320px) {
+//     .mobile-one-img-content{
+//         position: absolute;
+//         text-align: center;
+//         background: rgba(24, 23, 23, 0.836);
+//         top: 50%;
+//         left: 35%;
+//         padding: 10px;
+//     }
+//   }
+
+
+//   @media only screen and (min-width: 375px) {
+//     .mobile-one-img-content{
+//         position: absolute;
+//         top: 50%;
+//         left: 38% !important;
+//     }
+//   }
+
+// @media only screen and (min-width: 425px) {
+//     .mobile-one-img-content{
+//         position: absolute;
+//         top: 50%;
+//         left: 39% !important;
+//     }
+//   }
+
+
+//   @media only screen and (min-width: 768px) {
+//     .mobile-one-img-content{
+//         position: absolute;
+//         top: 50%;
+//         left: 29% !important;
+//     }
+//   }
+
+
+  
+//   @media only screen and (min-width: 1440px) {
+//     .mobile-one-img-content{
+//         position: absolute;
+//         top: 50%;
+//         left: 37% !important;
+//     }
+//   }
+
+
+
+  
+  
+//   @media only screen and (min-width: 2560px) {
+//     .mobile-one-img-content{
+//         position: absolute;
+//         top: 50%;
+//         left: 42% !important;
+//     }
+//   }
+
+
+
+  
+.end{
+    display: block;
+    width: 280px;
+    margin: 0px auto;
+    height: 4px;
+    background-color: #FF8C42;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// all mi mobile section 
+
+#all-mi-mobile{
+    margin-bottom: 40px;
+    background: #f5f5f5 !important;
+    margin-top: 20px;
+  .product-realme{
+      padding: 20px 70px;
+  }
+ 
+   .product-item{
+    width: 296px;
+    height: 500px;
+    padding-top: 47px;
+    margin-right: 14px;
+    text-align: center;
+    background: #fff;
+    transition: box-shadow .5s linear;
+    display: inline-block;
+    vertical-align: bottom;
+    position: relative;
+    line-height: 1.5;
+    padding: 30px 0px;
+    padding-bottom: 65px;
+    margin-bottom: 25px !important;
+   }
+    .product-descrition{
+        .product-offer{
+            background-color: #FF8C42;
+            padding: 3px 25px;
+            color: #fff;
+            font-size: 1rem;
+        }
+       
+        .product-btn{
+            background-color: #FF8C42;
+            padding: 10px 35px;
+            color: #fff;
+        }
+        .product-btn:hover{
+            background-color: #4E598C;
+            color: #fff;
+        }
+     
+        p{
+            font-size: 0.825rem;
+            font-weight: 600 !important;
+        }
+        .price{
+            color: #FF8C42 !important;
+            font-weight: 600 !important;
+            padding-bottom: 20px !important;
+        }
+    }
+    
+    h2{
+        font-size: 1.4rem !important;
+        font-weight: 600;
+        color: #FF8C42 !important;
+    }
+}
+
+
+.product-item:hover{
+    box-shadow: 0 5px 15px rgba(0,0,0,.2);
+}
+
+
+
+
+
+
+
+
+
+.mi-productbutton{
+text-align: center;
+    .mi-button-link{
+        background-color: #FF8C42;
+        color: #fff;
+        padding: 15px 25px;
+        text-align: center;
+        }
+        .mi-button-link:hover{
+            background-color: #4E598C;
+            transition: all 0.5s ease-in;
+        }
+
+    }
+
+
+
+
+
+// mi-one-product-description 
+
+
+#mobiles-product-details{
+    margin-top: 10px;
+    h2{
+        text-align: center;
+        font-weight: 600;
+        background-color: #000;
+        padding: 40px 0px;
+        color: #fff;
+        font-size: 1.4rem;
+    }
+    h1{
+        text-align: center;
+        font-weight: 600;
+        background-color: #000;
+        padding: 40px 0px;
+        color: #fff;
+        font-size: 1.4rem;
+    }
+}
+#mi-one{
+    .mi-button-link{
+        background-color: #FF8C42;
+        color: #fff;
+        padding: 15px 25px;
+        }
+        .mi-button-link:hover{
+            background-color: #4E598C;
+            transition: all 0.5s ease-in;
+        }
+.mi-one-product-description{
+    text-align: justify !important;
+    h2{
+        font-size: 1.4rem;
+        font-weight: 600;
+        font-size: 1.4rem;
+        font-weight: bold;
+    }
+  
+        li{
+            font-size: 13px;
+            margin-bottom: 10px;
+            text-align: justify;
+        }
+    
+}
+}
+
+
+
+
+
+

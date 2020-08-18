@@ -1,0 +1,90 @@
+@import "main";
+@import "index";
+
+
+
+
+
+
+// Top 5 youtube SEO tips to rank your video
+.youtube-seo-main-heading{
+    margin-top: 40px;
+    .orangecolor{
+        color: #FF8C42 !important;
+    }
+    h1{
+        color: #F9C784 !important;
+        font-size: 1.6rem;
+        text-transform: uppercase;
+        text-decoration-line: underline;
+        font-weight: 600;
+        font-weight: bold;
+    }
+}
+
+
+
+#youtube-seo{
+    .seo-tube{
+    margin-top: 35px;
+    .left-youtube-seo{
+        h2{
+            color: #FCAF58;  
+            margin: 15px 0px 10px 0px;
+            text-transform: uppercase;
+            font-size: 1.3rem;
+        }
+        h3{
+            color: #FFF;  
+            margin: 15px 0px 10px 0px;
+            text-transform: uppercase;
+            font-size: 1.3rem;
+        }
+    }
+    }
+}
+
+
+#main-seo-content{
+    .orangecolor{
+        color: #FF8C42 !important;
+    }
+    .seo-content{
+        
+        h3{
+            color: #F9C784;  
+            text-transform: uppercase;
+            font-size: 1.4rem;
+        }
+        
+    }
+}
+
+
+
+
+
+
+
+// YOUTUBE BLOG 
+
+.youtube-seo-main-heading{
+    h1{
+        font-weight: 700 !important;
+        font-size: 1.8em !important;
+    }
+}
+
+
+
+
+.youtube-blog{
+    a{
+        text-decoration: none;
+        list-style-type: none;
+    }
+    .card-img-top{
+        width: 100%;
+        height: 250px;
+    }
+}

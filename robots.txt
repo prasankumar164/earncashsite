@@ -1,0 +1,5 @@
+User-agent: *
+Allow : /
+sitemap: http://prasanrakulvirat.000webhostapp.com/sitemap.xml
+
+Disallow: /

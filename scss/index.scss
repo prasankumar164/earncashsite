@@ -1,0 +1,137 @@
+@import "main";
+
+
+
+body{
+    // background-image: url('../images/index-bg.png');
+    // background-attachment: fixed;  
+    // background-repeat: repeat;
+    // background-position: center;
+    background-color: #070707 !important;
+}
+
+.index-one{
+    
+   background-color: rgb(24, 18, 18);
+    padding: 30px 0px;
+    margin-top: 20px;
+.container{
+    .index-one{
+        margin-top: 10px;  
+        font-weight: 500;
+        padding-bottom: 20px;
+        color: $colorthree;        
+    }
+    h1{
+        color: $colortwo;
+        text-align: center;
+        font-size: 1.8em;
+        text-decoration: underline;
+    }
+    h2{
+        color: $colortwo;
+        text-align: center;
+        font-size: 1.8em;
+    }
+    p{
+        color: $colorone;
+        text-align: center;
+    }
+}
+}
+
+
+.index-two{
+   
+    .index-two-img{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    h2{
+        color: $colortwo;
+        font-size: 1.6rem;
+        text-decoration: underline;
+    }
+    p{
+        color: $colorone;
+    }
+}
+
+#index-rahul-img{
+.index-three{
+    h5{
+    color: #F9C784 !important;  
+    text-transform: uppercase !important;
+    font-size: 1.3rem !important;
+    line-height: 1.8em;
+    }
+}
+
+// .money-rahul{
+//     background-color: #000 !important;
+//     opacity: 0.8;
+//     img{
+//         margin-left: auto;
+//         padding: 10p;
+//     }
+// }
+}
+
+@media only screen and (max-width: 600px) {
+    .index-three {
+      h5{
+          text-align: center;
+      }
+    }
+  }
+
+
+
+// page link btn 
+// .index-two-btn{
+//     margin-bottom: 30px;
+//     background-color: #F9C784;
+//     display: inline-block;
+//     padding: 10px 20px;
+  
+//     a{
+//         text-decoration: none;
+//         color: #000;
+//         font-size: 0.8rem;
+//     }
+//     &:hover{
+//       background-color: rgb(241, 151, 33);
+//       transition: 0.5s all ease;
+//    }
+   
+//   }
+
+// money btn
+.money-btn{
+    .money-btn-color{
+        background-color: #FF8C42;
+        color: #000;
+        font-size: 0.80rem;
+        &:hover{
+            background-color: #F9C784;
+            transition: 0.5s ease all;
+        }
+    }
+}
+
+
+
+
+
+  
+.end{
+    display: block;
+    width: 100%;
+    height: 4px;
+    background-color: #FF8C42;
+}
+
+
+
+
+

@@ -1,0 +1,297 @@
+/*
+Errno::ENOENT: No such file or directory @ rb_sysopen - scss
+
+Backtrace:
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:454:in `read'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:454:in `update_stylesheet'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:209:in `each'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:294:in `watch'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/plugin.rb:109:in `method_missing'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:358:in `watch_or_update'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:51:in `process_result'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/base.rb:50:in `parse'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/base.rb:18:in `parse!'
+C:/Ruby27/lib/ruby/gems/2.7.0/gems/sass-3.7.4/bin/sass:13:in `<top (required)>'
+C:/Ruby27/bin/sass:23:in `load'
+C:/Ruby27/bin/sass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Errno::ENOENT: No such file or directory @ rb_sysopen - scss"; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="youtube-seo-main-heading">
+             <div class="container">
+              <h1 class="text-center">Top 5 youtube SEO tips to rank your video </h1>
+              <p class="my-3">
+                  Today's Article I'm sharing through 10 YouTube SEO tips to help you rank your
+                  videos number one on YouTube. These are the exact strategies that have allowed
+                  me to get over 16,000 subscribers and over a million views within the first 6
+                  months of starting my youtube channel. 
+                  </p>
+                  <p>So, let's jump into the tips,</p>
+           </div>
+          </div>
+
+
+
+      <div id="youtube-seo">
+        <div class="container">
+           <div class="row seo-tube">
+             <div class="col-md-6 my-auto">
+               <div class="left-youtube-seo">
+               <h2>5 YouTube SEO tips to help you rank your videos</h2>
+               <h3> 1) FIND GOOD KEYWORDS</h3>
+               <h3> 2) use your competitors video titles as tags</h3>
+               <h3> 3) use TUBEBUDDY extension</h3>
+               <h3> 4) use your own name as a tag</h3>
+               <h3> 5) Place tags in tag box and in video description</h3>
+               </div>
+             </div>
+             <div class="col-md-6 my-4">
+                 <div class="right-youtube-seo">
+                  <img src="../img/earn-with-youtube/5-SEO-TIPS.jpg" class="img-fluid" alt="">
+                 </div>
+             </div>
+           </div>
+        </div>
+      </div>
+
+
+
+        
+
+
+
+
+       
+
+      <div id="main-seo-content">
+        <div class="container">
+         <div class="seo-content my-5">
+            <h3>1)FIND GOOD KEYWORDS:</h3>
+          <p>First, you need to understand that
+              how YouTube decides which videos to rank is based on keywords. People are looking
+              for different topics on YouTube and they're also watching videos and seeing
+              videos suggested in the sidebar you need to use specific words that people are
+              looking for or interested in in your videos title, description and tags so that
+              you will show up in the search and on that sidebar and more people will watch
+              your video.</p>
+              <P>The first step to doing this is to make sure that you find some
+              really good keywords that people are actually interested in and actually
+              searching for.</P>
+              <P>So, first brainstorm a whole bunch of different ideas about what
+               people might be searching for think about the real words that people would use
+               if they were looking for a video like yours after you've brainstormed a big list
+               of words that people might be using then it's time to start doing a little bit
+              of research to figure out which of those words are actually the most popular.</P>
+              <P>The simplest way to do this is just to start typing these different keywords into
+                the search bar on YouTube or on Google when you do this you'll see a bunch of
+                suggested searches pop up and these are some of the things that people are
+                searching for the most often when you find these terms that people are using a
+                whole lot you'll want to make sure that you use those words in your videos title
+                description and tags.
+                </P>
+                <P>Another way to figure out exactly which keywords you should
+                be focusing on is to use a free extension called tube buddy-buddy is just a
+                browser extension that you can install on whatever browser you're using it will
+                give you data on different search terms when you're doing research on YouTube so
+                with two buddy installed when I search for a keyword on YouTube I see this
+                little box pop up over on the side of the page and it gives me a rank for that
+                keyword it tells me how good of a keyword that is based on how popular it is how
+                many people are searching for it and how competitive it is.</P>
+                <P>Basically you want to
+                be looking for keywords that have lots of people searching for them but aren't
+                very competitive now the reality is that most keywords that people are searching
+                for are going to be fairly competitive so you're just looking to find a good
+                balance if you can find one that is moderately popular and moderately
+                competitive then that's actually probably a pretty good keyword to go after but
+                ideally you're looking for one that is very popular and not very competitive as
+                your channel grows in popularity you'll be able to go after more and more
+                competitive keywords and you'll be able to get better and better rankings for
+                your videos.
+                </P>
+                <P>When you're just starting out it's better to target those less
+                  competitive keywords that maybe aren't quite as popular but at least you'll be
+                  able to rank for and start to get some traction on YouTube. </P>
+         </div>
+        </div>
+      </div>
+
+
+
+
+
+      <div id="main-seo-content">
+        <div class="container">
+         <div class="seo-content my-5">
+            <h3>2)use your competitors video titles as tags:</h3>
+          <p>My second tip, is one that I haven't heard anyone talking about so if you do this you will
+              definitely be ahead of the game and this is to use your competitors video titles
+              as tags on your own video.</p>
+              <P>So, when you're doing your keyword research and you're
+              looking at these different keywords that you'd like to rank for and the sort of
+              videos that if people are interested in them they would also be interested in
+              the video that you are making.</P>
+          <P>
+              So, if you want to do is copy the title of that
+              video exactly and then paste it into the tags section of your video and also
+              into the bottom part of the description of your video that way when someone is
+              watching that video on YouTube your video will be much more likely to show up in
+              the suggested video side column and you will get a lot more views because of it
+              and if you want to be even more sneaky about it that you can open up a private
+              browser in your computer go to the competitors video and then see what videos
+              show up in the side column when you're watching their video and you could use
+              some of the more popular videos that are popping up on that sidebar as even more
+              tags on your own video.</P>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+      <div id="main-seo-content">
+        <div class="container">
+         <div class="seo-content my-5">
+            <h3>3)use TUBEBUDDY extension:</h3>
+          <p>Tip number three, is to use TUBEBUDDY  to see what keywords
+              your competitors are successfully targeting so whenever you're watching a video
+              on youtube and you have two buddy installed over on right hand side you will see
+              a list of all of the tags that are on that video and tubebuddy will even tell
+              you how well that video is ranking for those different tags.</p>
+              <P>So, if you see a
+                  video that's really similar to the video that you're making and the channel that
+                  made it has a similar number of subscribers as you do and maybe their videos are
+                  doing about as well as your videos are normally doing then that gives you a good
+                  idea that you can probably rank for those same keywords if you optimize your
+                  video around those keywords.</P>
+          <P>
+              So, if you're making a video about how to train your
+              puppy and you go and watch a video that has that tail how to train your puppy
+              and you look at the tags over on the side and you see that they are ranking
+              number five for the keyword puppy training tips then you know that puppy
+              training tips is probably a good keyword for you to go after.</P>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+      <div id="main-seo-content">
+        <div class="container">
+         <div class="seo-content my-5">
+            <h3>4)use your own name as a tag:</h3>
+          <p>Tip number four, YouTube likes to reward creators who keep people on YouTube
+              for longer so when someone is watching one of your videos if they then go and
+              watch another of your videos right after it then YouTube thinks oh wow this
+              channel is doing a great job people are interested in watching more content and
+              that means that they are interested in being on YouTube to watch this creators
+              content.</p>
+              <P>So, if you can do something to make people want to watch more of your
+                  videos right after they watch one of your videos then YouTube will actually want
+                  to give you a boost in the rankings because they want your channel to do better
+                  so it sneaky little way that you can do this is to use your own name as a tag
+                  channel name in the tags section of your video.</P>
+          <P>
+              Here's what this does this means
+              that YouTube thinks that your videos are even more closely related to each other
+              because it sees that they have these different keywords that are in common so it
+              sees that on one of your videos your name is in the tags and in another of your
+              videos your name is in the tags and that way when someone's watching one of your
+              video your other videos are even more likely to show up in those suggested
+              videos which means that someone is more likely to watch one of your videos after
+              the video if they're already watching.</P>
+              <P>So, not only does this mean that YouTube
+                  will favor your channel but it also means that you're getting more views right
+                  then and there because people are going to watch more of your videos in a row.</P>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+      <div id="main-seo-content">
+        <div class="container">
+         <div class="seo-content my-5">
+            <h3>5)Place tags in tag box and in video description:</h3>
+          <p>Tip number five, is also kind of sneaky which makes me feel like maybe I should
+              call this Article like sneaky tips to rank number one on YouTube but anyway my
+              fifth tip for you is to not only put the tags in the actual tags box where
+              YouTube tells you to put your tags but also copy them from there and paste them
+              into the very bottom part of your video's description and that way you get all
+              of your keywords both into the description and into the tags also rather than
+              trying to stuff all those keywords and make them sound natural somehow in the
+              video's description.</p>
+              <P>You can just put it all the way down at the bottom and just
+              write tags and then put a whole list of the tags after that and that way anyone
+              sees it they just think oh those are the tags and they won't think twice about
+              it.
+              </P>
+        
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <div id="main-seo-content">
+        <div class="container">
+         <div class="seo-content my-5">
+            <h3> bonus tip one:</h3>
+          <p>First bonus tip, is just make sure that you keep in mind that main big picture strategy
+              which is you want to find keywords that have a high searched volume and low
+              competition the more of those keywords you can find the better your videos will do.</p>
+            <h3> bonus tip number two:</h3>
+          <p>Bonus tip number two, is decide exactly what keywords you're going to go
+              after with your video before you film your video so that as you make your video
+              you can actually say the keywords in your video because YouTube is listening to
+              you their algorithm and software has gotten a lot more advanced and they can
+              actually listen to your videos now even if you don't have subtitles or closed
+              captions on your video they can still listen to your video at least in part to
+              try to figure out exactly what your video is about so if you say your keywords
+              in your video of course in a natural conversational way then this will actually
+              help your video rank better on YouTube.</p>
+          </div>
+        </div>
+      </div>
+
+
+
+

@@ -1,0 +1,117 @@
+@import "main";
+@import "index";
+@import "category";
+
+
+
+body{
+    background-image: url('../images/index-bg.png');
+    background-attachment: fixed;  
+    background-repeat: repeat;
+    background-position: center;
+}
+
+// 10 legit ways to make money as a teenager 
+
+
+#scrap{
+    margin-top: 100px;
+    h1{
+     color: #F9C784 !important;
+     font-size: 1.6rem;
+     text-transform: uppercase;
+    }
+}
+
+
+
+#scrap-one{
+    h5{
+        color: #F9C784 !important;  
+        text-transform: uppercase;
+        font-size: 1.6rem;
+    }
+    .scrap-one-home{
+        h5{
+        line-height: 1.8em;
+        }
+    }
+    .line-height{
+        h5{
+            color: #F9C784;
+            line-height: 1.8em !important;
+            text-align: justify;
+            font-size: 1.2rem;
+         }
+    }
+}
+
+
+
+
+
+#scrap-two{
+    .scrap-two-img{
+        padding: 25px 0px 5px 0px;
+    }
+    .scrap-two-content{
+      
+        h2{
+            color: #F9C784 !important;  
+            margin: 15px 0px 10px 0px;
+            text-transform: uppercase;
+            font-size: 1.6rem;
+        }
+        p{
+            color: #fff;
+        }
+    }
+}
+
+
+
+
+
+
+#learn-college{
+    .learn-college-content{
+        h5{
+        color: #F9C784 !important;  
+        text-transform: uppercase;
+        font-size: 1.2rem;
+        line-height: 1.8em;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+// WORK FROM HOME JOBS BLOG 
+
+.workfromhome{
+    h1{
+        font-weight: 700 !important;
+        font-size: 1.8em !important;
+    }
+}
+
+
+
+
+.workfromhome-blog{
+    a{
+        text-decoration: none;
+        list-style-type: none;
+    }
+    .card-img-top{
+        width: 100%;
+        height: 250px;
+    }
+}
